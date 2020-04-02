@@ -1,0 +1,21 @@
+.
+├── CCleaner.zip
+├── MindMapper 17.9012a22 Arena.7z
+├── Paragon_NTFS_15.5.100__Shark_Trial_Reset.dmg
+├── Paragon_extFS_for_Mac_11.3.30__Shark_Trial_Reset.dmg
+├── README.md
+│   ├── upload-site.py
+│   ├── utf_8_str.py
+│   └── 通用技术4.1作业.docx
+├── Tuxera_NTFS_2018.zip
+├── bt32.zip
+├── bt64.zip
+├── dir.txt
+├── plus.zip
+├── soft-master-7fc3c1d947a12ae247ebe2f70d294569ee33c755.zip
+├── videostudio.zip
+├── 证照之星7.0解除尺寸限制.7z
+├── 证照之星企业版5.0.exe
+└── 证照之星至尊版完整版.7z
+
+1 directory, 17 files
